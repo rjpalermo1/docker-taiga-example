@@ -13,5 +13,4 @@
     "termsOfServiceUrl": null,
     "maxUploadFileSize": null,
     "contribPlugins": ["/slack.js"]
-//    "loginFormType": "ldap"
 }
